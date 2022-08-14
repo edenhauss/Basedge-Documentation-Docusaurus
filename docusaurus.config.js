@@ -3,13 +3,13 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BasedgeBot',
-  url: 'https://vk.com/basedgebot',
-  baseUrl: '/',
+  url: 'https://merchfck.github.io',
+  baseUrl: '/Basedge-Documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'merchfck', // Usually your GitHub org/user name.
-  projectName: 'Basedge-Docs', // Usually your repo name.
+  projectName: 'Basedge-Documentation', // Usually your repo name.
 
   i18n: {
     defaultLocale: 'ru',
