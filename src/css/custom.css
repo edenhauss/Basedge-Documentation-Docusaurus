@@ -1,0 +1,109 @@
+@font-face {
+  font-family: "greycliff bold";
+  src: url("/static/fonts/greycliffcf-bold.otf");
+}
+
+@font-face {
+  font-family: "greycliff regular";
+  src: url("/static/fonts/greycliffcf-regular.otf");
+}
+
+@font-face {
+  font-family: "greycliff light";
+  src: url("/static/fonts/greycliffcf-light.otf");
+}
+
+@font-face {
+  font-family: "roobert bold";
+  src: url("/static/fonts/Roobert-Bold.otf");
+}
+
+@font-face {
+  font-family: "roobert regular";
+  src: url("/static/fonts/Roobert-Regular.otf");
+}
+
+@font-face {
+  font-family: "roobert light";
+  src: url("/static/fonts/Roobert-Light.otf");
+}
+
+@font-face {
+  font-family: "montserrat light";
+  src: url("/static/fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: "montserrat regular";
+  src: url("/static/fonts/Montserrat-Regular.ttf");
+}
+
+
+::selection {
+  background: var(--ifm-color-primary-dark);
+  color: #ececec;
+}
+
+:root {
+  --ifm-color-primary: #a2b8ff;
+  --ifm-color-primary-dark: #445b98;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-background: #2c2a28;
+  --ifm-color-text: #e8e8e8;
+  --ifm-color-primary-text: #3a3a3a;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+.navbar__title {
+  font-family: "greycliff regular", sans-serif;
+  font-size: 26px;
+  margin-left: 5px;
+}
+
+.toggle_node_modules-\@docusaurus-theme-classic-lib-theme-ColorModeToggle-styles-module {
+  display: none;
+}
+
+.navbar__item {
+  padding: 0;
+}
+
+html {
+  color: var(--ifm-color-text);
+  background-color: var(--ifm-color-background);
+  font-family: "roobert regular", sans-serif;
+  font-size: 18px;
+}
+
+.navbar {
+  background-color: var(--ifm-color-background)
+}
+
+.navbar__brand {
+  color: var(--ifm-color-text);
+}
+
+.hero__title {
+  color: #ffffff;
+  font-size: 45px;
+}
+
+.hero__subtitle {
+  color: var(--ifm-color-primary-text);
+  font-size: 25px;
+}
+
+.button{
+  color: var(--ifm-color-primary-text);
+  font-size: 22px;
+  font-family: "montserrat regular", sans-serif;
+}
+
+.navbar__link {
+  margin-left: 15px;
+}
