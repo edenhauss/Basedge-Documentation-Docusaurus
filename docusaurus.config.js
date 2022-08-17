@@ -10,7 +10,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'merchfck', // Usually your GitHub org/user name.
   projectName: 'Basedge-Documentation', // Usually your repo name.
-  USE_SSH: true,
 
   i18n: {
     defaultLocale: 'ru',
