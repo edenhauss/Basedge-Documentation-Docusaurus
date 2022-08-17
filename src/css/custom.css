@@ -130,10 +130,6 @@ h3 {
   margin-left: 10px;
 }
 
-.heroBanner_src-pages-index-module {
-  padding: 8rem 0 !important;
-}
-
 .navbar__items--right a{
   color: var(--ifm-color-text);
 }
@@ -313,4 +309,8 @@ img {
 .col--4 svg {
   height: 80px !important;
   display: inline-block !important;
+}
+
+.hero--primary {
+  padding: 8rem 0 !important;
 }
