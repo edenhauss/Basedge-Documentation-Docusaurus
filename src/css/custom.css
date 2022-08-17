@@ -260,3 +260,28 @@ h3 {
 .navbar-sidebar {
   background-color: var(--ifm-color-background);
 }
+
+.hash-link {
+  transform: scale(33.5);
+}
+
+.markdown p {
+  font-size: 17px;
+}
+
+table thead {
+  background-color: var(--ifm-color-background-darker);
+}
+
+table tr:nth-child(2n) {
+  background-color: var(--ifm-color-background-darker);
+}
+
+blockquote {
+  font-size: 17px;
+  padding-left: 7px;
+}
+
+table {
+  font-size: 15px;
+}

@@ -55,7 +55,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https:/vk.com/basedgebot',
+            href: 'https://github.com/merchfck/Basedge-Documentation',
             label: 'GitHub',
             position: 'right',
           },
