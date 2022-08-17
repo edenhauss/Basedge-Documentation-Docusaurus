@@ -1,0 +1,11 @@
+{
+  "position": 2.5,
+  "label": "Модерация",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "class-mod",
+  "link": {
+    "type": "generated-index",
+    "title": "Модерация"
+  }
+}

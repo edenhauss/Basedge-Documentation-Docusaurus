@@ -1,0 +1,11 @@
+{
+  "position": 2.5,
+  "label": "Игры",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "class-games",
+  "link": {
+    "type": "generated-index",
+    "title": "Игры"
+  }
+}

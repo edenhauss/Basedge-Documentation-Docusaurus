@@ -2,7 +2,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BasedgeBot',
+  title: 'Basedgebot',
   url: 'https://github.com',
   baseUrl: '/Basedge-Documentation/',
   onBrokenLinks: 'throw',
@@ -42,8 +42,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
-        title: 'Basedge',
+        title: 'Basedgebot',
         items: [
           {
             href: 'https://www.twitch.tv/basedgebot',

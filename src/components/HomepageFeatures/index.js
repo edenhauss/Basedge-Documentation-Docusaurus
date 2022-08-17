@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Не отходя от чата',
+    Svg: require('@site/static/img/desktop.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          Все полезные функции прямо в чате. Узнай <a href='/Basedge-Documentation/docs/Команды/commands'>цвет никнейма,</a> <a href='/Basedge-Documentation/docs/Команды/commands'>погоду</a> или <a href='/Basedge-Documentation/docs/Команды/commands'>решение примера</a> в два клика.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Игровые команды',
+    Svg: require('@site/static/img/gamba.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          <a href='/Basedge-Documentation/docs/Игры/Слоты'>Слоты,</a> <a href='/Basedge-Documentation/docs/Игры/Казино'>казино,</a> <a href='/Basedge-Documentation/docs/Игры/Баккара'>баккара</a> и <a href='/Basedge-Documentation/docs/Игры/Рулетка'>рулетка</a> в одном месте. Единый <a href='/Basedge-Documentation/docs/Игры/Баланс'>баланс</a> для всего, <a href='/Basedge-Documentation/docs/Игры/Перевод'>взаимодействие</a>  с игроками.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Помощь в модерации',
+    Svg: require('@site/static/img/blades.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          Защита от <a href='/Basedge-Documentation/docs/Модерация/moderation'>спама</a>, <a href='/Basedge-Documentation/docs/Модерация/moderation'>фильтр фраз,</a> управление<a href='/Basedge-Documentation/docs/Модерация/moderation'> стримом</a> и добавление<p> <a href='/Basedge-Documentation/docs/Модерация/moderation'>кастомных команд.</a></p>
       </>
     ),
   },

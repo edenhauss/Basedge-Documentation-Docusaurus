@@ -1,0 +1,11 @@
+{
+  "position": 2.5,
+  "label": "Команды",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "class-commands",
+  "link": {
+    "type": "generated-index",
+    "title": "Команды"
+  }
+}

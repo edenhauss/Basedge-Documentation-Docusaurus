@@ -46,17 +46,20 @@
 
 :root {
   --ifm-color-primary: #a2b8ff;
-  --ifm-color-primary-dark: #445b98;
-  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-dark: #6079c2;
+  --ifm-color-primary-darker: #4c62a8;
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-color-background: #2c2a28;
-  --ifm-color-text: #e8e8e8;
+  --ifm-color-background-darker: #211f1e;
+  --ifm-color-text: #ececf3;
   --ifm-color-primary-text: #3a3a3a;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgba(0,0,0,0.5)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
+  --ifm-menu-link-sublist-icon-filter: none;
 }
 
 .navbar__title {
@@ -66,7 +69,7 @@
 }
 
 .toggle_node_modules-\@docusaurus-theme-classic-lib-theme-ColorModeToggle-styles-module {
-  display: none;
+  /*display: none;*/
 }
 
 .navbar__item {
@@ -80,17 +83,22 @@ html {
   font-size: 18px;
 }
 
+h3 {
+  font-size: 25px;
+}
+
 .navbar {
   background-color: var(--ifm-color-background)
 }
 
 .navbar__brand {
-  color: var(--ifm-color-text);
+  color: #ececec;
 }
 
 .hero__title {
   color: #ffffff;
   font-size: 45px;
+  font-family: "greycliff bold", sans-serif;
 }
 
 .hero__subtitle {
@@ -106,4 +114,149 @@ html {
 
 .navbar__link {
   margin-left: 15px;
+}
+
+.button.button--secondary {
+  transition: 0.4s;
+  color: var(--ifm-color-primary-dark);
+}
+
+
+.button.button--primary {
+  color: white;
+}
+
+.button {
+  margin-left: 10px;
+}
+
+.heroBanner_src-pages-index-module {
+  padding: 8rem 0 !important;
+}
+
+.featureSvg_src-components-HomepageFeatures-styles-module {
+  height: 80px !important;
+  display: inline-block !important;
+}
+
+.navbar__items--right a{
+  color: var(--ifm-color-text);
+}
+
+.navbar__items--right svg {
+  display: none;
+}
+
+.navbar__link {
+  transition: 0.1s;
+  border-bottom: 1px solid var(--ifm-color-primary);
+}
+
+.navbar__link:hover {
+  transition: 0.1s;
+  border-bottom: 7px solid var(--ifm-color-primary);
+}
+
+.docPage_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-styles-module {
+  background-color: var(--ifm-color-background-darker);
+}
+
+.markdown {
+  color: var(--ifm-color-text);
+}
+
+.menu__link {
+  color: var(--ifm-color-text);
+  line-height: 1.2;
+}
+
+.menu__link:hover {
+  color: var(--ifm-color-text);
+  background-color: rgba(253, 253, 253, 7%);
+}
+
+.menu__link--active {
+  color: var(--ifm-color-primary);
+}
+
+.menu__link--active:hover {
+  color: var(--ifm-color-primary);
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  background-color: rgba(253, 253, 253, 7%);
+}
+
+.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module {
+  color: #e3e3e3;
+  border: 1px solid #676767 !important;
+  background-color: var(--ifm-color-background);
+}
+
+.pagination-nav__sublabel {
+  color: #d9d9d9;
+}
+
+.breadcrumbs__link {
+  cursor: pointer;
+  color: #d9d9d9;
+}
+
+.card {
+  color: #d9d9d9;
+}
+
+.card:hover {
+  color: #d9d9d9;
+}
+
+.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module:hover {
+  border: 1px solid var(--ifm-color-primary) !important;
+}
+
+.menu__list-item-collapsible:hover {
+  background-color: rgba(253, 253, 253, 10%);
+}
+
+.menu__list-item-collapsible--active {
+  background-color: rgba(253, 253, 253, 10%);
+}
+
+.pagination-nav__link {
+  font-family: "montserrat regular", sans-serif;
+  border: 1px solid #676767;
+}
+
+.clean-btn:hover {
+  background-color: rgba(253, 253, 253, 12%);
+}
+
+.breadcrumbs__item--active .breadcrumbs__link {
+  background-color: rgba(253, 253, 253, 5%);
+}
+
+.breadcrumbs__item .breadcrumbs__link:hover {
+  background-color: rgba(253, 253, 253, 5%);
+}
+
+.card .text--truncate {
+  color: #e7e7e7;
+}
+
+.menu__caret:before {
+  filter: invert();
+}
+
+.breadcrumbs__item:not(:last-child):after {
+  filter: invert();
+}
+
+@media (min-width: 997px) {
+  .docSidebarContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Sidebar-styles-module {
+    border-right: 1px solid rgb(103, 103, 103) !important;
+  }
+}
+
+.navbar-sidebar {
+  background-color: var(--ifm-color-background);
 }
