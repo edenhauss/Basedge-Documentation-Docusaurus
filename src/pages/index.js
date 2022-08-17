@@ -35,7 +35,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      description="Местный клоун">
+      description="EZ игровой бот EZ">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
@@ -43,3 +43,4 @@ export default function Home() {
     </Layout>
   );
 }
+

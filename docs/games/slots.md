@@ -4,26 +4,23 @@ sidebar_label: Слоты
 
 # Слоты
 
-Виртульная аркадная игра
-
-
 | Setting         | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
 |:----------------|:-------------|
 | Global cooldown | 3 seconds    |
 | User cooldown   | 3 seconds    |
-| Mod-only        | No           |
-| Sub-only        | No           |
+| Mod only        | No           |
+| Sub only        | No           |
 
 ### Использование команды
 
-<code>!слоты bet</code>
+<code>!слоты #bet</code>
 
 <br/>
 <br/>
 
->- <code>bet</code>  -  ставка в виртуальной валюте
+>- <code>#bet</code>  -  ставка в виртуальной валюте
 
-:::note
+:::tip
 Ставку можно ставить при помощи постфикса <b>-к</b>
 
 Пример: <code>!слоты 10к</code>
