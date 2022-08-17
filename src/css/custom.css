@@ -148,10 +148,6 @@ h3 {
   border-bottom: 7px solid var(--ifm-color-primary);
 }
 
-.docPage_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-styles-module {
-  background-color: var(--ifm-color-background-darker);
-}
-
 .markdown {
   color: var(--ifm-color-text);
 }
@@ -313,4 +309,8 @@ img {
 
 .hero--primary {
   padding: 8rem 0 !important;
+}
+
+.main-wrapper {
+  background-color: var(--ifm-color-background-darker);
 }
