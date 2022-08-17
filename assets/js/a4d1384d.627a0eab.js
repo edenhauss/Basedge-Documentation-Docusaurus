@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkc_users_booba_webstorm_projects_basedge_documentation=self.webpackChunkc_users_booba_webstorm_projects_basedge_documentation||[]).push([[924],{2069:e=>{e.exports=JSON.parse('{"permalink":"/Basedge-Documentation/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkc_users_booba_webstorm_projects_basedge_documentation=self.webpackChunkc_users_booba_webstorm_projects_basedge_documentation||[]).push([[191],{6113:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/Basedge-Documentation/blog/tags/hello","allTagsPath":"/Basedge-Documentation/blog/tags","count":2}')}}]);
