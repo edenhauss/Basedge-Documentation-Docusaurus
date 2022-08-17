@@ -134,11 +134,6 @@ h3 {
   padding: 8rem 0 !important;
 }
 
-.featureSvg_src-components-HomepageFeatures-styles-module {
-  height: 80px !important;
-  display: inline-block !important;
-}
-
 .navbar__items--right a{
   color: var(--ifm-color-text);
 }
@@ -313,4 +308,9 @@ img {
   border: var(--ifm-alert-border-width) solid var(--ifm-color-primary-darker);
   border-left-width: var(--ifm-alert-border-left-width);
   border-radius: var(--ifm-alert-border-radius);
+}
+
+.col--4 svg {
+  height: 80px !important;
+  display: inline-block !important;
 }
