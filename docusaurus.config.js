@@ -3,14 +3,14 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Basedgebot',
-  url: 'https://github.com',
+  url: 'https://merchfck.github.io',
   baseUrl: '/Basedge-Documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'merchfck', // Usually your GitHub org/user name.
   projectName: 'Basedge-Documentation', // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  USE_SSH: true,
 
   i18n: {
     defaultLocale: 'ru',
