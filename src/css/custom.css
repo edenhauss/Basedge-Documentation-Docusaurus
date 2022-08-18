@@ -256,7 +256,7 @@ table tr:nth-child(2n) {
 
 blockquote {
   font-size: 17px;
-  padding-left: 7px;
+  padding-left: 0px;
 }
 
 table {
@@ -323,5 +323,29 @@ underline {
   color: #f3f3f3;
   border-bottom: 2px solid var(--ifm-color-primary);
   padding-bottom: 4px;
+}
 
+.draft {
+  border-radius: 20px;
+  padding-bottom: 15px;
+  color: #f8c74e;
+}
+
+.draft-title {
+  font-style: oblique;
+}
+
+quote {
+  padding-left: 30px;
+}
+
+blockquote p {
+  margin-left: 30px;
+}
+
+.alert--warning {
+  border: var(--ifm-alert-border-width) solid #8a7940;
+  border-left-width: var(--ifm-alert-border-left-width);
+  border-radius: var(--ifm-alert-border-radius);
+  background-color: #d2a954;
 }
