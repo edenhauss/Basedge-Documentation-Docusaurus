@@ -52,6 +52,6 @@ keywords:
 
 ### Пример использования
 
-<img src="https://media0.giphy.com/media/ALiaTBAGT2IbvrBsFg/giphy.gif?cid=ecf05e472kwvwzoxyrckho65vra6rc00gdo5allh3ygmnwdv&rid=giphy.gif&ct=g" alt="Слоты пример использования" width="350"/>
+<img src="https://media1.giphy.com/media/cD5302u0Go15ADUpqV/giphy.gif?cid=790b761186b94efdfc90c98dcacc447a5abb375cb9fea3cf&rid=giphy.gif&ct=g" alt="Казино, пример использования" width="350"/>
 
 <p class="update">Last update on 18.08.2022</p>

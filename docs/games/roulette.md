@@ -1,5 +1,5 @@
 ---
-sidebar_label: Русская рулетка
+sidebar_label: Русская рулетка описание
 keywords:
 - Русская Рулетка Twitch Basedgebot
 ---

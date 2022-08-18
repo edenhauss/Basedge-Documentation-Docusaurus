@@ -1,5 +1,5 @@
 ---
-sidebar_label: Трейд
+sidebar_label: Трейд описание
 keywords:
 - Трейд Twitch Basedgebot
 ---
@@ -52,6 +52,6 @@ keywords:
 
 ### Пример использования
 
-<img src="https://media0.giphy.com/media/ALiaTBAGT2IbvrBsFg/giphy.gif?cid=ecf05e472kwvwzoxyrckho65vra6rc00gdo5allh3ygmnwdv&rid=giphy.gif&ct=g" alt="Слоты пример использования" width="350"/>
+<img src="https://media1.giphy.com/media/wQQextuQChxxJ9SwcY/giphy.gif?cid=790b7611d97f0cb41f1a5caba9a55b5e094254dff616c1b1&rid=giphy.gif&ct=g" alt="Трейд, пример использования" width="350"/>
 
 <p class="update">Last update on 18.08.2022</p>

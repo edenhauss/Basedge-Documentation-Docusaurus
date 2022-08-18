@@ -1,5 +1,5 @@
 ---
-sidebar_label: Баланс
+sidebar_label: Баланс описание + гиф
 keywords:
 - Баланс Twitch Basedgebot
 ---

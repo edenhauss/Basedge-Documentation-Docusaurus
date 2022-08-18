@@ -1,5 +1,5 @@
 ---
-sidebar_label: Прогноз
+sidebar_label: Прогноз описание + гиф
 keywords:
 - Прогноз Twitch Basedgebot
 ---

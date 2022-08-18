@@ -1,5 +1,5 @@
 ---
-sidebar_label: Погода
+sidebar_label: Погода описание + гиф
 keywords:
 - Погода Twitch Basedgebot
 ---

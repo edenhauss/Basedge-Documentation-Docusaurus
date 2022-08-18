@@ -1,5 +1,5 @@
 ---
-sidebar_label: Перевод
+sidebar_label: Перевод описание + гиф
 keywords:
 - Перевод Twitch Basedgebot
 ---

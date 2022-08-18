@@ -1,5 +1,5 @@
 ---
-sidebar_label: Транслит
+sidebar_label: Транслит описание
 keywords:
 - Транслит Twitch Basedgebot
 ---
@@ -39,6 +39,6 @@ keywords:
 
 ### Пример использования
 
-<img src="https://media0.giphy.com/media/ALiaTBAGT2IbvrBsFg/giphy.gif?cid=ecf05e472kwvwzoxyrckho65vra6rc00gdo5allh3ygmnwdv&rid=giphy.gif&ct=g" alt="Слоты пример использования" width="350"/>
+<img src="https://media1.giphy.com/media/kpJzY5Mngx8iJXOjny/giphy.gif?cid=790b7611f544b3e1b46c8e7728edba8748da34b35ac3908e&rid=giphy.gif&ct=g" alt="Транслит, пример использования" width="350"/>
 
 <p class="update">Last update on 18.08.2022</p>
