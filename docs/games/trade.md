@@ -1,39 +1,49 @@
 ---
-sidebar_label: Слоты
+sidebar_label: Трейд
 keywords:
-- Слоты Twitch Basedgebot
+- Трейд Twitch Basedgebot
 ---
 
-# Слоты
+# Трейд
 
 | Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
 |:----------------|:----------------------|
 | User cooldown   | 3 seconds             |
 | Mod only        | No                    |
 | Sub only        | No                    |
-| Aliases         | !slots                |
+| Aliases         | !trade                |
 
 ### Описание
 
 ### Использование команды
 
-<code>!слоты amount</code>
+<code>!трейд bet amount</code>
 
 <br/>
 <br/>
 
+>- <code>bet</code> - коэффициент ставки
 >- <code>amount</code> - ставка в виртуальной валюте
+
+:::note
+Коэффициентом может быть как <underline>вверх</underline>, так и <underline>вниз</underline>
+
+Пример:
+<p><code>!трейд вверх 10к</code></p>
+
+<p><code>!трейд вниз 10к</code></p>
+:::
 
 :::tip
 Ставку можно ставить при помощи постфикса <b>-к</b>
 
-Пример: <code>!слоты 5к</code>
+Пример: <code>!трейд вверх 5к</code>
 :::
 
 :::tip
 Можно поставить ставку all-in
 
-Пример: <code>!слоты все</code>
+Пример: <code>!трейд вверх все</code>
 :::
 
 ### Пример использования

@@ -1,40 +1,37 @@
 ---
-sidebar_label: Слоты
+sidebar_label: Транслит
 keywords:
-- Слоты Twitch Basedgebot
+- Транслит Twitch Basedgebot
 ---
 
-# Слоты
+# Транслит
 
 | Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
 |:----------------|:----------------------|
 | User cooldown   | 3 seconds             |
 | Mod only        | No                    |
 | Sub only        | No                    |
-| Aliases         | !slots                |
+| Aliases         | !ru, !en              |
 
 ### Описание
 
 ### Использование команды
 
-<code>!слоты amount</code>
+<code>!ru content</code>
 
 <br/>
 <br/>
 
->- <code>amount</code> - ставка в виртуальной валюте
+>- <code>content</code>  -  сообщение, написанное на латинице
 
-:::tip
-Ставку можно ставить при помощи постфикса <b>-к</b>
+<br/>
 
-Пример: <code>!слоты 5к</code>
-:::
+<code>!en content</code>
 
-:::tip
-Можно поставить ставку all-in
+<br/>
+<br/>
 
-Пример: <code>!слоты все</code>
-:::
+>- <code>content</code>  -  сообщение, написанное на кириллице
 
 ### Пример использования
 

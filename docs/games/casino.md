@@ -1,39 +1,49 @@
 ---
-sidebar_label: Слоты
+sidebar_label: Казино
 keywords:
-- Слоты Twitch Basedgebot
+- Казино Twitch Basedgebot
 ---
 
-# Слоты
+# Казино
 
 | Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
 |:----------------|:----------------------|
 | User cooldown   | 3 seconds             |
 | Mod only        | No                    |
 | Sub only        | No                    |
-| Aliases         | !slots                |
+| Aliases         | !casino               |
 
 ### Описание
 
 ### Использование команды
 
-<code>!слоты amount</code>
+<code>!казино bet amount</code>
 
 <br/>
 <br/>
 
->- <code>amount</code> - ставка в виртуальной валюте
+>- <code>bet</code>  -  коэффициент ставки
+>- <code>amount</code>  -  ставка в виртуальной валюте
+
+:::note
+Коэффициентом может быть как <underline>число</underline>, так и <underline>цвет</underline>
+
+Пример:
+<p><code>!казино x50 10к</code></p>
+
+<p><code>!казино зеленое 10к</code></p>
+:::
 
 :::tip
 Ставку можно ставить при помощи постфикса <b>-к</b>
 
-Пример: <code>!слоты 5к</code>
+Пример: <code>!казино черное 5к</code>
 :::
 
-:::tip
+:::tip 
 Можно поставить ставку all-in
 
-Пример: <code>!слоты все</code>
+Пример: <code>!казино черное все</code>
 :::
 
 ### Пример использования

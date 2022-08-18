@@ -1,39 +1,40 @@
 ---
-sidebar_label: Слоты
+sidebar_label: Перевод
 keywords:
-- Слоты Twitch Basedgebot
+- Перевод Twitch Basedgebot
 ---
 
-# Слоты
+# Перевод
 
 | Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
 |:----------------|:----------------------|
-| User cooldown   | 3 seconds             |
+| User cooldown   | 15 seconds            |
 | Mod only        | No                    |
 | Sub only        | No                    |
-| Aliases         | !slots                |
+| Aliases         | !transfer, !p2p       |
 
 ### Описание
 
 ### Использование команды
 
-<code>!слоты amount</code>
+<code>!перевод nickname amount</code>
 
 <br/>
 <br/>
 
->- <code>amount</code> - ставка в виртуальной валюте
+>- <code>nickname</code>  -  никнейм пользователя
+>- <code>amount</code>  -  сумма перевода
 
-:::tip
-Ставку можно ставить при помощи постфикса <b>-к</b>
+:::caution
+Лимит переводов за один день - 10 раз
 
-Пример: <code>!слоты 5к</code>
+Комиссия - 5% от суммы перевода
 :::
 
 :::tip
-Можно поставить ставку all-in
+Перевод можно отправлять при помощи постфикса <b>-к</b>
 
-Пример: <code>!слоты все</code>
+Пример: <code>!перевод dyzrol 5к</code>
 :::
 
 ### Пример использования

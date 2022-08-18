@@ -271,11 +271,11 @@ table thead tr th {
   border: var(--ifm-alert-border-width) solid var(--ifm-color-primary-darker);
   border-left-width: var(--ifm-alert-border-left-width);
   border-radius: var(--ifm-alert-border-radius);
-  background-color: var(--ifm-color-primary);
+  background-color: #8ca6fb;
 }
 
 .theme-admonition-tip code {
-  background-color: #809cf5;;
+  background-color: #7193ff;
 }
 
 .card p {
@@ -287,7 +287,7 @@ table thead tr th {
 }
 
 img {
-  border: var(--ifm-alert-border-width) solid var(--ifm-color-primary-darker);
+  border: var(--ifm-alert-border-width) solid #92a7e9;
   border-left-width: var(--ifm-alert-border-left-width);
   border-radius: var(--ifm-alert-border-radius);
 }
@@ -303,4 +303,25 @@ img {
 
 .main-wrapper {
   background-color: var(--ifm-color-background-darker);
+}
+
+.update {
+  color: #e1e1e1;
+  font-size: 15px !important;
+  margin-top: 30px;
+}
+
+.pagination-nav {
+  margin-top: 1rem !important;
+}
+
+table thead tr {
+  border-bottom: 1px solid var(--ifm-table-border-color);
+}
+
+underline {
+  color: #f3f3f3;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  padding-bottom: 4px;
+
 }

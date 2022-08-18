@@ -1,39 +1,34 @@
 ---
-sidebar_label: Слоты
+sidebar_label: Баланс
 keywords:
-- Слоты Twitch Basedgebot
+- Баланс Twitch Basedgebot
 ---
 
-# Слоты
+# Баланс
 
 | Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
 |:----------------|:----------------------|
-| User cooldown   | 3 seconds             |
+| User cooldown   | 15 seconds            |
 | Mod only        | No                    |
 | Sub only        | No                    |
-| Aliases         | !slots                |
+| Aliases         | !balance              |
 
 ### Описание
 
 ### Использование команды
 
-<code>!слоты amount</code>
+<code>!баланс</code>
 
 <br/>
 <br/>
 
->- <code>amount</code> - ставка в виртуальной валюте
+:::note
+Можно узнать собственный баланс или другого пользователя
 
-:::tip
-Ставку можно ставить при помощи постфикса <b>-к</b>
+Пример:
+<p><code>!баланс</code> - собственный</p>
 
-Пример: <code>!слоты 5к</code>
-:::
-
-:::tip
-Можно поставить ставку all-in
-
-Пример: <code>!слоты все</code>
+<p><code>!баланс dyzrol</code> - другого пользователя</p>
 :::
 
 ### Пример использования
