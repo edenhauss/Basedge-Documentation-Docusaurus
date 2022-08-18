@@ -52,6 +52,7 @@ keywords:
 
 ### Пример использования
 
-<img src="https://media1.giphy.com/media/cD5302u0Go15ADUpqV/giphy.gif?cid=790b761186b94efdfc90c98dcacc447a5abb375cb9fea3cf&rid=giphy.gif&ct=g" alt="Казино, пример использования" width="350"/>
+<img src="https://media1.giphy.com/media/xd75iFGEWWQdaGFRnw/giphy.gif?cid=790b76112ee569899542b6b3eb441b8b98b1d29ae98b91bf&rid=giphy.gif&ct=g" alt="Казино, пример использования" width="350"/>
+<img src="https://media3.giphy.com/media/Hv1wghfKkgDrAerp7y/giphy.gif?cid=790b76115d3ef8bd5859030dbd54b8bd6e1c8b1da1cc2223&rid=giphy.gif&ct=g" alt="Казино, пример использования" width="350" id="example-right"/>
 
 <p class="update">Last update on 18.08.2022</p>

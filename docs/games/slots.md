@@ -42,6 +42,7 @@ keywords:
 
 ### Пример использования
 
-<img src="https://media1.giphy.com/media/Q7Tb1SFzpCL5QGPYMJ/giphy.gif?cid=790b7611b4c08e08a12ceabcb061120dabc6133cab517433&rid=giphy.gif&ct=g" alt="Слоты пример использования" width="350"/>
+<img src="https://media4.giphy.com/media/YLqNuLQeBYctH4JXG7/giphy.gif?cid=790b761145f69d4c0a3542287cc9e3156eb69640ab19a603&rid=giphy.gif&ct=g" alt="Слоты, пример использования" width="350"/>
+<img src="https://media4.giphy.com/media/ijbif2pvQxHASspssF/giphy.gif?cid=790b7611e8a90cd6fa58222fcd168b01301ad5b41e1f4672&rid=giphy.gif&ct=g" alt="Слоты, пример использования" width="350" id="example-right"/>
 
 <p class="update">Last update on 18.08.2022</p>
