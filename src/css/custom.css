@@ -369,3 +369,16 @@ blockquote p {
     margin-top: 10px;
   }
 }
+
+details {
+  background-color: var(--ifm-color-background) !important;
+  color: #f5f5f5 !important;
+  margin-top: 25px !important;
+  --docusaurus-details-decoration-color: #a9a9b4 !important;
+  --docusaurus-details-transition: transform var(--ifm-transition-fast) ease;
+  border: 1px solid #707075 !important;
+}
+
+table tr {
+  background-color: var(--ifm-color-background-darker);
+}

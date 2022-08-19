@@ -6,15 +6,6 @@ keywords:
 
 # Слоты
 
-| Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
-|:----------------|:----------------------|
-| User cooldown   | 3 seconds             |
-| Mod only        | No                    |
-| Sub only        | No                    |
-| Aliases         | !slots                |
-
-### Описание
-
 > *<quote>Слоты — это не просто игровые автоматы. Игровой слот - это целый мир, где происходят самые настоящие приключения. Здесь можно повстречать таких же, как ты, любителей азартных игр и найти друзей, которые будут помогать тебе на пути к заветной цели. Здесь есть все, что угодно для того, чтобы сделать отдых максимально комфортным - это и возможность развлечься с друзьями, и возможность выиграть реальные деньги, и возможность просто расслабиться.</quote>*
 >
 > © SLONB0T
@@ -29,13 +20,13 @@ keywords:
 >- <code>amount</code> - ставка в виртуальной валюте
 
 :::tip
-Ставку можно ставить при помощи постфикса <b>-к</b>
+Ставку можно обозначить при помощи постфикса <b>-к</b>
 
 Пример: <code>!слоты 5к</code>
 :::
 
 :::tip
-Можно поставить ставку all-in
+Чтобы сыграть на весь баланс, вместо ставки введите <b>все</b> или <b>all in</b>
 
 Пример: <code>!слоты все</code>
 :::
@@ -45,4 +36,17 @@ keywords:
 <img src="https://media4.giphy.com/media/YLqNuLQeBYctH4JXG7/giphy.gif?cid=790b761145f69d4c0a3542287cc9e3156eb69640ab19a603&rid=giphy.gif&ct=g" alt="Слоты, пример использования" width="350"/>
 <img src="https://media4.giphy.com/media/ijbif2pvQxHASspssF/giphy.gif?cid=790b7611e8a90cd6fa58222fcd168b01301ad5b41e1f4672&rid=giphy.gif&ct=g" alt="Слоты, пример использования" width="350" id="example-right"/>
 
-<p class="update">Last update on 18.08.2022</p>
+<details>
+  <summary>Подробнее...</summary>
+  <div>
+
+| Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+|:----------------|:----------------------|
+| User cooldown   | 3 seconds             |
+| Mod only        | No                    |
+| Sub only        | No                    |
+| Aliases         | !slots                |
+  </div>
+</details>
+
+<p class="update">Last update on 19.08.2022</p>

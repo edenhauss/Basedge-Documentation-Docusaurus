@@ -6,15 +6,6 @@ keywords:
 
 # Казино
 
-| Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
-|:----------------|:----------------------|
-| User cooldown   | 3 seconds             |
-| Mod only        | No                    |
-| Sub only        | No                    |
-| Aliases         | !casino               |
-
-### Описание
-
 > *<quote>Существует большое количество различных онлайн-казино. Но в данном обзоре мы рассмотрим только те, которые относятся к категории игровых автоматов. Все они являются популярными, так как дают возможность играть и выигрывать большие суммы денег. Играть в казино, как и везде, нужно не только за выигрыш, но и за удовольствие. В этом случае не важно, сколько вы хотите выиграть, главное – это получать удовольствие от процесса.</quote>*
 >
 > © SLONB0T
@@ -39,13 +30,13 @@ keywords:
 :::
 
 :::tip
-Ставку можно ставить при помощи постфикса <b>-к</b>
+Ставку можно обозначить при помощи постфикса <b>-к</b>
 
 Пример: <code>!казино черное 5к</code>
 :::
 
 :::tip 
-Можно поставить ставку all-in
+Чтобы сыграть на весь баланс, вместо ставки введите <b>все</b> или <b>all in</b>
 
 Пример: <code>!казино черное все</code>
 :::
@@ -55,4 +46,17 @@ keywords:
 <img src="https://media1.giphy.com/media/xd75iFGEWWQdaGFRnw/giphy.gif?cid=790b76112ee569899542b6b3eb441b8b98b1d29ae98b91bf&rid=giphy.gif&ct=g" alt="Казино, пример использования" width="350"/>
 <img src="https://media3.giphy.com/media/Hv1wghfKkgDrAerp7y/giphy.gif?cid=790b76115d3ef8bd5859030dbd54b8bd6e1c8b1da1cc2223&rid=giphy.gif&ct=g" alt="Казино, пример использования" width="350" id="example-right"/>
 
-<p class="update">Last update on 18.08.2022</p>
+<details>
+  <summary>Подробнее...</summary>
+  <div>
+
+| Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+|:----------------|:----------------------|
+| User cooldown   | 3 seconds             |
+| Mod only        | No                    |
+| Sub only        | No                    |
+| Aliases         | !casino               |
+  </div>
+</details>
+
+<p class="update">Last update on 19.08.2022</p>

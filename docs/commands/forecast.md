@@ -1,19 +1,10 @@
 ---
-sidebar_label: Прогноз (гиф)
+sidebar_label: Прогноз
 keywords:
 - Прогноз Twitch Basedgebot
 ---
 
 # Прогноз
-
-| Global cooldown | 30 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
-|:----------------|:-----------------------|
-| User cooldown   | 1 minute               |
-| Mod only        | No                     |
-| Sub only        | No                     |
-| Aliases         | !forecast              |
-
-### Описание
 
 > *<quote>Прогноз — это не просто сумма показателей, это совокупность фактов, событий, которые имеют для Вас ключевое значение и Вы хотите или готовы их изменить. Прогнозы в сфере финансов дают возможность получить представление о ситуации, а также оценить перспективы развития событий. Прогноз позволяет определить, как и когда будет развиваться ситуация, что будет происходить, каковы будут последствия.</quote>*
 >
@@ -29,7 +20,7 @@ keywords:
 >- <code>location</code>  -  расположение региона
 
 :::tip
-Регион может быть любым объектом, обозначенным на карте
+Локация может быть любым объектом, обозначенным на карте
 
 Пример:
 <p><code>!прогноз Новая Зеландия</code></p>
@@ -39,7 +30,20 @@ keywords:
 
 ### Пример использования
 
-<img src="https://media1.giphy.com/media/cD5302u0Go15ADUpqV/giphy.gif?cid=790b761186b94efdfc90c98dcacc447a5abb375cb9fea3cf&rid=giphy.gif&ct=g" alt="Казино, пример использования" width="350"/>
-<img src="https://media1.giphy.com/media/cD5302u0Go15ADUpqV/giphy.gif?cid=790b761186b94efdfc90c98dcacc447a5abb375cb9fea3cf&rid=giphy.gif&ct=g" alt="Казино, пример использования" width="350" id="example-right"/>
+<img src="https://media4.giphy.com/media/FdySQaiZmOBUSmBafW/giphy.gif?cid=790b76113d589fd88efec9abc6d03f8ce8370d857d17eabc&rid=giphy.gif&ct=g" alt="Прогноз, пример использования" width="350"/>
+<img src="https://media1.giphy.com/media/pTproBrtHaPDs0UJCw/giphy.gif?cid=790b76111736fc4f9353ca494760fa43911f8840c834d9fb&rid=giphy.gif&ct=g" alt="Прогноз, пример использования" width="350" id="example-right"/>
 
-<p class="update">Last update on 18.08.2022</p>
+<details>
+  <summary>Подробнее...</summary>
+  <div>
+
+| Global cooldown | 30 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+|:----------------|:-----------------------|
+| User cooldown   | 1 minute               |
+| Mod only        | No                     |
+| Sub only        | No                     |
+| Aliases         | !forecast              |
+  </div>
+</details>
+
+<p class="update">Last update on 19.08.2022</p>
