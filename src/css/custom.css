@@ -256,7 +256,12 @@ table tr:nth-child(2n) {
 
 blockquote {
   font-size: 17px;
-  padding-left: 0px;
+  color: #e8e8e8;
+  padding-left: 0;
+}
+
+blockquote p {
+  font-size: 15px !important;
 }
 
 table {
@@ -382,3 +387,6 @@ details {
 table tr {
   background-color: var(--ifm-color-background-darker);
 }
+
+/*TODO описание команд
+       постоянная привязка погоды и прогноза к человеку*/

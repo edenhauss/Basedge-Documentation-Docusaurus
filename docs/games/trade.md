@@ -10,18 +10,22 @@ keywords:
 >
 > © SLONB0T
 
+### Описание
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+
 ### Использование команды
 
-<code>!трейд bet amount</code>
+<code>!трейд predict amount</code>
 
 <br/>
 <br/>
 
->- <code>bet</code> - коэффициент ставки
->- <code>amount</code> - ставка в виртуальной валюте
+>- <code>predict</code> - исход ставки
+>- <code>amount</code> - количество игровой валюты
 
 :::note
-Коэффициентом может быть как <i>вверх</i>, так и <i>вниз</i>
+Исходом может быть как <i>вверх</i>, так и <i>вниз</i>
 
 Пример:
 <p><code>!трейд вверх 10к</code></p>

@@ -6,9 +6,13 @@ keywords:
 
 # Транслит
 
-> *<quote>Транслит — это наиболее удобный для чтения текстовый формат для транслитерации слов. Он позволяет сохранить все особенности написания и чтения, сохранить текст в неизменном виде в любое время. Кроме того, его можно быстро редактировать и использовать при переводе текста. Если вы уже владеете английским языком, но еще не знаете, как правильно перевести текст, то вы можете воспользоваться нашей командой. Как правильно перевести текст с английского на русский? Чтобы Вы понимали, о чем идет речь в статье, мы подготовили для вас несколько вариантов, чтобы Вы могли быстро ознакомиться с ними.</quote>*
+> *<quote>Транслит — это наиболее удобный для чтения текстовый формат для транслитерации слов. Он позволяет сохранить все особенности написания и чтения, сохранить текст в неизменном виде в любое время. Кроме того, его можно быстро редактировать и использовать при переводе текста.</quote>*
 >
 > © SLONB0T
+
+### Описание
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
 
 ### Использование команды
 
@@ -42,7 +46,6 @@ keywords:
 | User cooldown   | 3 seconds             |
 | Mod only        | No                    |
 | Sub only        | No                    |
-| Aliases         | !ru, !en              |
 
   </div>
 </details>

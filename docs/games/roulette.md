@@ -10,6 +10,10 @@ keywords:
 >
 > © SLONB0T
 
+### Описание
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+
 ### Использование команды
 
 <code>!рулетка</code>
@@ -30,12 +34,12 @@ keywords:
   <summary>Подробнее...</summary>
   <div>
 
-| Global cooldown | 10 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
-|:----------------|:-----------------------|
-| User cooldown   | 20 seconds             |
-| Mod only        | No                     |
-| Sub only        | No                     |
-| Aliases         | !roulette              |
+| Global cooldown | 5 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+|:----------------|:----------------------|
+| User cooldown   | 15 seconds            |
+| Mod only        | No                    |
+| Sub only        | No                    |
+| Aliases         | !roulette             |
   </div>
 </details>
 

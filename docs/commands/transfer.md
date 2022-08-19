@@ -10,6 +10,10 @@ keywords:
 >
 > © SLONB0T
 
+### Описание
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+
 ### Использование команды
 
 <code>!перевод nickname amount</code>
@@ -21,7 +25,9 @@ keywords:
 >- <code>amount</code>  -  сумма перевода
 
 :::caution
-Лимит переводов за один день - 10
+Зачисление средств другому человеку может занять некоторое время
+
+Лимит переводов за сутки - 10
 
 Комиссия - 5% от суммы перевода
 :::

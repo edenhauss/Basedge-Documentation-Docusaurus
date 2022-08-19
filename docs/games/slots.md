@@ -10,6 +10,10 @@ keywords:
 >
 > © SLONB0T
 
+### Описание
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+
 ### Использование команды
 
 <code>!слоты amount</code>
@@ -17,7 +21,7 @@ keywords:
 <br/>
 <br/>
 
->- <code>amount</code> - ставка в виртуальной валюте
+>- <code>amount</code> - количество игровой валюты
 
 :::tip
 Ставку можно обозначить при помощи постфикса <b>-к</b>
