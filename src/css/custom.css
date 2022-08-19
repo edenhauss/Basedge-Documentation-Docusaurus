@@ -388,5 +388,59 @@ table tr {
   background-color: var(--ifm-color-background-darker);
 }
 
+.slonbot {
+  color: #e8e8e8;
+  padding-bottom: 5px;
+  border-bottom: 1px solid var(--ifm-color-primary);
+}
+
+.slonbot:hover {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: rgba(0, 0, 0, 0);
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.casino:hover {
+  background-image: url("https://cdn.7tv.app/emote/61edc1611a1b2a6e73252634/4x.avif");
+}
+
+.roulette:hover {
+  background-image: url("https://cdn.7tv.app/emote/61d788c2600369a98b37fa10/4x.avif");
+  background-size: contain;
+}
+
+.slots:hover {
+  background-image: url("https://cdn.7tv.app/emote/628d8b64ed0a40a5ec5f4810/4x.avif");
+}
+
+.trade:hover {
+  background-image: url("https://cdn.7tv.app/emote/6266ded14f54759b7184de2d/4x.avif");
+}
+
+.balance:hover {
+  background-image: url("https://cdn.7tv.app/emote/60ed5e86741d620b760ebb65/4x.avif");
+}
+
+.forecast:hover {
+  background-image: url("https://cdn.7tv.app/emote/62d674d15edc80ae934eb164/4x.avif");
+  background-size: contain;
+}
+
+.transfer:hover {
+  background-image: url("https://cdn.7tv.app/emote/62ecdb84d428db3b200d4169/4x.avif");
+  background-size: contain;
+}
+
+.transliteration:hover {
+  background-image: url("https://cdn.7tv.app/emote/62a681a6c86176ad2c654e90/4x.avif");
+}
+
+.weather:hover {
+  background-image: url("https://cdn.7tv.app/emote/6234debcb1ac2f1588862afb/4x.avif");
+}
+
 /*TODO описание команд
        постоянная привязка погоды и прогноза к человеку*/
