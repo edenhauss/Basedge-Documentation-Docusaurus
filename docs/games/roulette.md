@@ -12,7 +12,8 @@ keywords:
 
 ### Описание
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+Имитация [русской рулетки.](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%83%D0%BB%D0%B5%D1%82%D0%BA%D0%B0) В барабане 6 гнезд для патронов, с каждым холостым выстрелом растет шанс выстрелить заряженным патроном.
+Для каждого игрока свой револьвер. Через некоторое время выстрелы обнуляются, а игра начинается заново.
 
 ### Использование команды
 

@@ -12,7 +12,9 @@ keywords:
 
 ### Описание
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+Суть игры заключается в торговле акциями на повышение или понижение. В [Basedge](/) ты предугадываешь исход движения графика.
+В случае совпадения предикта с исходом ставка умножается на процент изменения графика, в случае проигрыша - делится.
+Таким образом, при проигрыше Вы теряете не всю ставку, а лишь ее часть.
 
 ### Использование команды
 
@@ -21,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risu
 <br/>
 <br/>
 
->- <code>predict</code> - исход ставки
+>- <code>predict</code> - исход 
 >- <code>amount</code> - количество игровой валюты
 
 :::note
@@ -40,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risu
 :::
 
 :::tip
-Чтобы сыграть на весь баланс, вместо ставки введите <b>все</b> или <b>all in</b>
+Чтобы сыграть на весь баланс, вместо суммы введите <b>все</b> или <b>all in</b>
 
 Пример: <code>!трейд вверх все</code>
 :::

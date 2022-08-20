@@ -3,9 +3,5 @@
   "label": "Игры",
   "collapsible": true,
   "collapsed": false,
-  "className": "class-games",
-  "link": {
-    "type": "generated-index",
-    "title": "Игры"
-  }
+  "className": "class-games"
 }

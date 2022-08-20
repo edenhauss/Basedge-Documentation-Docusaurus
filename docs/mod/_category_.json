@@ -3,9 +3,5 @@
   "label": "Модерация",
   "collapsible": true,
   "collapsed": false,
-  "className": "class-mod",
-  "link": {
-    "type": "generated-index",
-    "title": "Модерация"
-  }
+  "className": "class-mod"
 }

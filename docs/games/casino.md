@@ -12,7 +12,9 @@ keywords:
 
 ### Описание
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+Упрощенная версия [рулетки.](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BB%D0%B5%D1%82%D0%BA%D0%B0) Главное отличие в том, что в [Basedge](/) ставить можно только на цвет. 
+Существует всего 4 цвета: <code id="black">черный</code>, <code id="yellow">желтый</code>, <code id="red">красный</code> и <code id="green">зеленый</code> с коэффициентами <b>x2</b>, <b>x3</b>, <b>x5</b> и <b>x50</b> соответственно.
+Чем выше коэффициент, тем больше риски и выше прогнозируемый выигрыш. При удачном исходе изначальная ставка умножается на выигрышный коэффициент, при неудачном - ставка стирается с [баланса.](/docs/commands/balance)
 
 ### Использование команды
 
@@ -40,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risu
 :::
 
 :::tip 
-Чтобы сыграть на весь баланс, вместо ставки введите <b>все</b> или <b>all in</b>
+Чтобы сыграть на весь баланс, вместо суммы введите <b>все</b> или <b>all in</b>
 
 Пример: <code>!казино черное все</code>
 :::

@@ -21,11 +21,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risu
 <br/>
 <br/>
 
->- <code>nickname</code>  -  никнейм пользователя
+>- <code>nickname</code>  -  никнейм игрока
 >- <code>amount</code>  -  сумма перевода
 
 :::caution
-Зачисление средств другому человеку может занять некоторое время
+Зачисление средств другому игроку может занять некоторое время
 
 Лимит переводов за сутки - 10
 

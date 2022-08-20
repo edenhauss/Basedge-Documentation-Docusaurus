@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risu
 <br/>
 
 :::note
-Также позволяет узнать баланс другого пользователя
+Также позволяет узнать баланс другого игрока
 
 Пример:
 <p><code>!баланс</code> - собственный</p>

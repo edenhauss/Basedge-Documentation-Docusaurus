@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/desktop.svg').default,
     description: (
       <>
-          Все полезные функции прямо в чате. Узнай <a href='/Basedge-Documentation/docs/Команды/commands'>цвет никнейма,</a> <a href='/Basedge-Documentation/docs/Команды/commands'>погоду</a> или <a href='/Basedge-Documentation/docs/Команды/commands'>решение примера</a> в два клика.
+          Все полезные функции прямо в чате. Узнай <a href='/Basedge-Documentation/docs/commands/color'>цвет никнейма,</a> <a href='/Basedge-Documentation/docs/commands/weather'>погоду</a> или <a href='/Basedge-Documentation/docs/commands/math'>решение примера</a> в два клика.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/gamba.svg').default,
     description: (
       <>
-          <a href='/Basedge-Documentation/docs/Игры/Слоты'>Слоты,</a> <a href='/Basedge-Documentation/docs/Игры/Казино'>казино,</a> <a href='/Basedge-Documentation/docs/Игры/Баккара'>баккара</a> и <a href='/Basedge-Documentation/docs/Игры/Рулетка'>рулетка</a> в одном месте. Единый <a href='/Basedge-Documentation/docs/Игры/Баланс'>баланс</a> для всего, <a href='/Basedge-Documentation/docs/Игры/Перевод'>взаимодействие</a>  с игроками.
+          <a href='/Basedge-Documentation/docs/games/slots'>Слоты,</a> <a href='/Basedge-Documentation/docs/games/casino'>казино,</a> <a href='/Basedge-Documentation/docs/games/baccarat'>баккара</a> и <a href='/Basedge-Documentation/docs/games/roulette'>рулетка</a> в одном месте. Единый <a href='/Basedge-Documentation/docs/commands/balance'>баланс</a> для всего, <a href='/Basedge-Documentation/docs/commands/transfer'>взаимодействие</a>  с игроками.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/blades.svg').default,
     description: (
       <>
-          Защита от <a href='/Basedge-Documentation/docs/Модерация/moderation'>спама</a>, <a href='/Basedge-Documentation/docs/Модерация/moderation'>фильтр фраз,</a> управление<a href='/Basedge-Documentation/docs/Модерация/moderation'> стримом</a> и добавление<p> <a href='/Basedge-Documentation/docs/Модерация/moderation'>кастомных команд.</a></p>
+          Защита от <a href='/Basedge-Documentation/docs/mod/spam'>спама</a>, <a href='/Basedge-Documentation/docs/mod/filter'>фильтр фраз,</a> управление<a href='/Basedge-Documentation/docs/mod/title'> стримом</a> и добавление<p> <a href='/Basedge-Documentation/docs/mod/custom_commands'>кастомных команд.</a></p>
       </>
     ),
   },

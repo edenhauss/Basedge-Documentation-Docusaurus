@@ -391,7 +391,7 @@ table tr {
 .slonbot {
   color: #e8e8e8;
   padding-bottom: 5px;
-  border-bottom: 1px solid var(--ifm-color-primary);
+  border-bottom: 1px solid #6c778c;
 }
 
 .slonbot:hover {
@@ -440,6 +440,18 @@ table tr {
 
 .weather:hover {
   background-image: url("https://cdn.7tv.app/emote/6234debcb1ac2f1588862afb/4x.avif");
+}
+
+#yellow {
+  background-color: #c49a26;
+}
+
+#red {
+  background-color: #d14949;
+}
+
+#green {
+  background-color: #4d9148;
 }
 
 /*TODO описание команд

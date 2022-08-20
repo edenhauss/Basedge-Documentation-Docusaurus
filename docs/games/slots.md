@@ -12,7 +12,10 @@ keywords:
 
 ### Описание
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+Упрощенная версия [игровых автоматов.](https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D1%82-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0) Главное отличие в том, что в [Basedge](/) отсутствуют бонусные игры и нельзя выбрать линии.
+Отношение шанса победы к проигрышу стремится к единице.
+При удачном исходе изначальная ставка умножается на случайный коэффициент, который напрямую зависит от выпавших фруктов, при неудачном - сумма стирается с [баланса.](/docs/commands/balance)
+Существует вероятность выпадения джекпота с коэффициентом х25.
 
 ### Использование команды
 
@@ -30,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risu
 :::
 
 :::tip
-Чтобы сыграть на весь баланс, вместо ставки введите <b>все</b> или <b>all in</b>
+Чтобы сыграть на весь баланс, вместо суммы введите <b>все</b> или <b>all in</b>
 
 Пример: <code>!слоты все</code>
 :::
