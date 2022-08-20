@@ -12,7 +12,7 @@ keywords:
 
 ### Описание
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+Команда позволяет узнать точный прогноз погоды на данный момент для интересующей локации. В нее входят температура, осадки, влажность, скорость ветра и другие параметры.
 
 ### Использование команды
 
@@ -24,6 +24,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risu
 >- <code>location</code>  -  расположение региона
 
 :::note
+Вы можете закрепить за командой постоянную локацию
+:::
+
+<code>!погода set location</code>
+
+<br/>
+<br/>
+
+Теперь Вы сможете написать <code>!погода.</code> После чего [Basedge](/) выведет прогноз погоды для постоянной локации
+
+
+:::tip
 Локация может быть любым объектом, обозначенным на карте
 
 Пример:

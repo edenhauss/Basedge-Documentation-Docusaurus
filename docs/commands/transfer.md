@@ -12,7 +12,7 @@ keywords:
 
 ### Описание
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+С помощью этой команды игрок может перевести часть своих денег другому игроку. Существуют некоторые ограничения на эту команду с целью избежать ее злоупотребления.
 
 ### Использование команды
 

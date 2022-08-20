@@ -12,7 +12,7 @@ keywords:
 
 ### Описание
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risus, rutrum non consectetur a, sodales ut lacus. Proin sodales velit velit, quis fringilla arcu fringilla ac. Etiam augue nisi, rhoncus nec viverra sit amet, auctor in velit. Nunc ut mi finibus lectus euismod dignissim vel nec nibh. Pellentesque cursus pellentesque sem ut vestibulum. Nulla est ante, euismod sed tincidunt quis, gravida non odio.
+Используя эту команду, игрок может узнать остаток средств на счету. Ничего лишнего.
 
 ### Использование команды
 
@@ -22,12 +22,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque risu
 <br/>
 
 :::note
-Также позволяет узнать баланс другого игрока
+Команда также позволяет узнать баланс другого игрока
 
 Пример:
 <p><code>!баланс</code> - собственный</p>
 
-<p><code>!баланс dyzrol</code> - другого пользователя</p>
+<p><code>!баланс dyzrol</code> - другого игрока</p>
 :::
 
 ### Пример использования
