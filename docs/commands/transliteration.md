@@ -41,9 +41,9 @@ keywords:
   <summary>Подробнее...</summary>
   <div>
 
-| Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+| Global cooldown | 2 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
 |:----------------|:----------------------|
-| User cooldown   | 3 seconds             |
+| User cooldown   | 5 seconds             |
 | Mod only        | No                    |
 | Sub only        | No                    |
 

@@ -48,7 +48,7 @@ keywords:
   <div>
 
 
-| Global cooldown | 3 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+| Global cooldown | 2 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
 |:----------------|:----------------------|
 | User cooldown   | 15 seconds            |
 | Mod only        | No                    |
