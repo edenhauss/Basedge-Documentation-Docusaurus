@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/blades.svg').default,
     description: (
       <>
-          Защита от <a href='/Basedge-Documentation/docs/mod/spam'>спама</a>, <a href='/Basedge-Documentation/docs/mod/filter'>фильтр фраз,</a> управление<a href='/Basedge-Documentation/docs/mod/title'> стримом</a> и добавление<p> <a href='/Basedge-Documentation/docs/mod/custom_commands'>кастомных команд.</a></p>
+        <p class="padding-text">Защита от <a href='/Basedge-Documentation/docs/mod/spam'>спама,</a> <a href='/Basedge-Documentation/docs/mod/filter'>фильтр фраз,</a> внесение в <a href='/Basedge-Documentation/docs/mod/blacklist'>черный список</a> и добавление <a href='/Basedge-Documentation/docs/mod/custom_commands'>кастомных команд.</a></p>
       </>
     ),
   },

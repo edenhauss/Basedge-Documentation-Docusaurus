@@ -455,8 +455,15 @@ table tr {
 }
 
 
-@media screen and (max-width: 600px) {
-  .buttons_src-pages-index-module {
+@media screen and (max-width: 500px) {
+  .buttons_AeoN, .buttons_src-pages-index-module {
     flex-direction: column;
+    /*align-items: normal !important;*/
+  }
+  .hero--primary {
+
+  }
+  .button--lg {
+    margin: 5px;
   }
 }
