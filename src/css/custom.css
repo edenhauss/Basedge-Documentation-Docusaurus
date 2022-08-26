@@ -467,3 +467,9 @@ table tr {
     margin: 5px;
   }
 }
+
+.example {
+  width: 340px;
+  height: 575px;
+  background-image: url("/static/img/docusaurus.png");
+}
