@@ -443,7 +443,7 @@ table tr {
 }
 
 #yellow {
-  background-color: #c49a26;
+  background-color: #bb9927;
 }
 
 #red {
@@ -454,4 +454,9 @@ table tr {
   background-color: #4d9148;
 }
 
-/*TODO в подключении вставь чат и пример гифка, что нужно написать /w basedgebot [text], чтобы оставить заявку*/
+
+@media screen and (max-width: 600px) {
+  .buttons_src-pages-index-module {
+    flex-direction: column;
+  }
+}

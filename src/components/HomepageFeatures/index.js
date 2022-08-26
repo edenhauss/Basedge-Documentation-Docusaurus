@@ -59,3 +59,17 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
+import Head from '@docusaurus/Head';
+
+function Home() {
+    const context = useDocusaurusContext();
+    const { siteConfig = {} } = context;
+    return (
+        <Layout>
+            <Head>
+                <script src="..."></script>
+            </Head>
+        </Layout>
+    );
+}
